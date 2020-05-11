@@ -1,4 +1,4 @@
-,cluster,file,original_id,patch_id,pathology,patient,segment_number,slice_number,type
+id,cluster,file,original_id,patch_id,pathology,patient,segment_number,slice_number,type
 0,44,./patches/cluster_44_patch_id_0_original_3643-X_patient_2_DCM_ed_slice_0_segnum_1.png,3643-X,0,DCM,2,1,0,ed
 1,32,./patches/cluster_32_patch_id_1_original_0-X_patient_4_DCM_ed_slice_0_segnum_1.png,0-X,1,DCM,4,1,0,ed
 2,14,./patches/cluster_14_patch_id_2_original_1-X_patient_4_DCM_ed_slice_0_segnum_2.png,1-X,2,DCM,4,2,0,ed
@@ -3960,3 +3960,4 @@
 3958,9,./patches/cluster_9_patch_id_3958_original_3982-X_patient_31_HCM_ed_slice_4_segnum_1.png,3982-X,3958,HCM,31,1,4,ed
 3959,11,./patches/cluster_11_patch_id_3959_original_3983-X_patient_31_HCM_ed_slice_4_segnum_2.png,3983-X,3959,HCM,31,2,4,ed
 3960,61,./patches/cluster_61_patch_id_3960_original_3984-X_patient_31_HCM_ed_slice_4_segnum_3.png,3984-X,3960,HCM,31,3,4,ed
+
