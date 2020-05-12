@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Clusters Report</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/vendor/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="css/vendor/font-awesome.min.css" type="text/css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+    <link href="css/jquery.bdt.css" type="text/css" rel="stylesheet">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<h3 align="right">Table was generated: 05/12/2020 12:57:52 UTC UTC, 0.01s</h3>
+
+<div class="container" style="width:100%">
+    <div class="row">
+            <div class="box clearfix">
+            <h3>Clusters Report</h3>
+            <p></p>
+
+            <table class="table table-hover" id="bootstrap-table" width=100%>
+             <tr><th class="th-sm">Cluster</th><th class="th-sm">Pathology</th><th class="th-sm">Patient</th><th class="th-sm">Type</th><th class="th-sm">Image</th></tr><tr><td>43</td><td>MINF</td><td>50</td><td>ed</td><td><img src=https://raw.githubusercontent.com/adri-j/datasets/master/patches/cluster_43_patch_id_1710_original_188-X_patient_50_MINF_ed_slice_2_segnum_3.png alt="" border=0 height=100 width=100></img></td></tr><tr><td>43</td><td>MINF</td><td>50</td><td>ed</td><td><img src=https://raw.githubusercontent.com/adri-j/datasets/master/patches/cluster_43_patch_id_1864_original_193-X_patient_50_MINF_ed_slice_3_segnum_2.png alt="" border=0 height=100 width=100></img></td></tr><tr><td>43</td><td>MINF</td><td>50</td><td>ed</td><td><img src=https://raw.githubusercontent.com/adri-j/datasets/master/patches/cluster_43_patch_id_2461_original_26-X_patient_50_MINF_ed_slice_2_segnum_1.png alt="" border=0 height=100 width=100></img></td></tr><tr><td>43</td><td>MINF</td><td>50</td><td>es</td><td><img src=https://raw.githubusercontent.com/adri-j/datasets/master/patches/cluster_43_patch_id_2719_original_276-X_patient_50_MINF_es_slice_2_segnum_3.png alt="" border=0 height=100 width=100></img></td></tr><tr><td>43</td><td>MINF</td><td>50</td><td>es</td><td><img src=https://raw.githubusercontent.com/adri-j/datasets/master/patches/cluster_43_patch_id_2753_original_281-X_patient_50_MINF_es_slice_3_segnum_2.png alt="" border=0 height=100 width=100></img></td></tr>
+            </table>
+        </div>
+        </div>
+    </div>
+</div>
+
+<script src="http://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="js/vendor/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/vendor/jquery.sortelements.js" type="text/javascript"></script>
+<script src="js/jquery.bdt.min.js" type="text/javascript"></script>
+<script>
+    $(document).ready( function () {
+        $('#bootstrap-table').bdt({
+            showSearchForm: 1,
+            showEntriesPerPageField: 1
+        });
+    });
+</script>
+<script>
+function get_local_date(dat) {
+    var date = new Date(dat);
+    return date.toLocaleString();
+}
+var time_string = "Table was generated: " +  get_local_date("05/12/2020 12:57:52 UTC") + ", 0.005599498748779297s"
+document.getElementById("time").innerHTML = time_string;
+</script>
+
+</body>
+</html>
