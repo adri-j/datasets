@@ -1,0 +1,1756 @@
+cluster number,cluster page,cluster image,tcav_DCM,tcav_HCM,tcav_NOR,tcav_RV,tcav_MINF,concepts,distribution,size,percentage_of_data
+0,/datasets/index/index-cluster_nb_0.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_0.png,-,-,-,-,-,No-Concept,"var yourVlSpec0 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_0.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis0', yourVlSpec0);",205,1.3265174064966998
+1,/datasets/index/index-cluster_nb_1.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_1.png,0.1198,0.09397,0.1304,0.1299,0.0585,No-Concept,"var yourVlSpec1 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_1.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis1', yourVlSpec1);",219,1.417108839135499
+2,/datasets/index/index-cluster_nb_2.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_2.png,0.07154,0.05466,0.118,0.06754,0.1165,No-Concept,"var yourVlSpec2 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_2.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis2', yourVlSpec2);",98,0.6341400284715931
+3,/datasets/index/index-cluster_nb_3.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_3.png,-,-,-,-,-,Concept,"var yourVlSpec3 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_3.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis3', yourVlSpec3);",443,2.8665717613562838
+4,/datasets/index/index-cluster_nb_4.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_4.png,1.0,1.0,1.0,1.0,1.0,Concept,"var yourVlSpec4 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_4.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis4', yourVlSpec4);",380,2.458910314481688
+5,/datasets/index/index-cluster_nb_5.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_5.png,-,-,-,-,-,No-Concept,"var yourVlSpec5 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_5.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis5', yourVlSpec5);",146,0.9447392260903326
+6,/datasets/index/index-cluster_nb_6.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_6.png,-,-,-,-,-,No-Concept,"var yourVlSpec6 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_6.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis6', yourVlSpec6);",283,1.831241102627152
+7,/datasets/index/index-cluster_nb_7.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_7.png,-,-,-,-,-,No-Concept,"var yourVlSpec7 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_7.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis7', yourVlSpec7);",264,1.7082955869030672
+8,/datasets/index/index-cluster_nb_8.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_8.png,-,-,-,-,-,Concept,"var yourVlSpec8 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_8.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis8', yourVlSpec8);",265,1.7147664035201242
+9,/datasets/index/index-cluster_nb_9.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_9.png,0.5359,0.5284,0.5734,0.5278,0.5399,Concept,"var yourVlSpec9 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_9.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis9', yourVlSpec9);",360,2.329493982140546
+10,/datasets/index/index-cluster_nb_10.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_10.png,0.01605,0.003228,0.003059,0.01268,0.0274,No-Concept,"var yourVlSpec10 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_10.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis10', yourVlSpec10);",289,1.8700660023294942
+11,/datasets/index/index-cluster_nb_11.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_11.png,1.0,1.0,1.0,1.0,1.0,No-Concept,"var yourVlSpec11 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_11.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis11', yourVlSpec11);",272,1.7600621198395237
+12,/datasets/index/index-cluster_nb_12.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_12.png,0.1134,0.09778,0.04753,0.1288,0.07642,Concept,"var yourVlSpec12 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_12.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis12', yourVlSpec12);",403,2.6077390966740004
+13,/datasets/index/index-cluster_nb_13.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_13.png,-,-,-,-,-,No-Concept,"var yourVlSpec13 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_13.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis13', yourVlSpec13);",247,1.5982917044130969
+14,/datasets/index/index-cluster_nb_14.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_14.png,0.9472,0.9606,0.9615,0.9475,0.9424,Concept,"var yourVlSpec14 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_14.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis14', yourVlSpec14);",267,1.7277080367542383
+15,/datasets/index/index-cluster_nb_15.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_15.png,-,-,-,-,-,No-Concept,"var yourVlSpec15 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_15.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis15', yourVlSpec15);",124,0.802381260515077
+16,/datasets/index/index-cluster_nb_16.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_16.png,-,-,-,-,-,Concept,"var yourVlSpec16 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_16.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis16', yourVlSpec16);",344,2.2259609162676335
+17,/datasets/index/index-cluster_nb_17.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_17.png,-,-,-,-,-,Concept,"var yourVlSpec17 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_17.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis17', yourVlSpec17);",355,2.2971398990552605
+18,/datasets/index/index-cluster_nb_18.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_18.png,1.0,1.0,1.0,1.0,1.0,No-Concept,"var yourVlSpec18 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_18.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis18', yourVlSpec18);",248,1.604762521030154
+19,/datasets/index/index-cluster_nb_19.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_19.png,0.007897,0.007407,0.007471,0.007679,0.003584,No-Concept,"var yourVlSpec19 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_19.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis19', yourVlSpec19);",234,1.514171088391355
+20,/datasets/index/index-cluster_nb_20.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_20.png,-,-,-,-,-,Concept,"var yourVlSpec20 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_20.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis20', yourVlSpec20);",241,1.5594668047107545
+21,/datasets/index/index-cluster_nb_21.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_21.png,-,-,-,-,-,No-Concept,"var yourVlSpec21 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_21.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis21', yourVlSpec21);",282,1.8247702860100945
+22,/datasets/index/index-cluster_nb_22.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_22.png,-,-,-,-,-,No-Concept,"var yourVlSpec22 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_22.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis22', yourVlSpec22);",308,1.9930115180535783
+23,/datasets/index/index-cluster_nb_23.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_23.png,0.0005641,0.0008995,0.001353,0.001607,0.0009827,No-Concept,"var yourVlSpec23 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_23.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis23', yourVlSpec23);",159,1.0288598421120745
+24,/datasets/index/index-cluster_nb_24.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_24.png,0.9945,0.9952,0.9892,0.9906,0.9969,No-Concept,"var yourVlSpec24 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_24.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis24', yourVlSpec24);",219,1.417108839135499
+25,/datasets/index/index-cluster_nb_25.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_25.png,0.9982,0.9987,0.9979,0.9958,0.9954,No-Concept,"var yourVlSpec25 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_25.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis25', yourVlSpec25);",222,1.4365212889866699
+26,/datasets/index/index-cluster_nb_26.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_26.png,0.08133,0.07217,0.05476,0.07951,0.07723,No-Concept,"var yourVlSpec26 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_26.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis26', yourVlSpec26);",169,1.093568008282645
+27,/datasets/index/index-cluster_nb_27.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_27.png,-,-,-,-,-,No-Concept,"var yourVlSpec27 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_27.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis27', yourVlSpec27);",174,1.1259220913679306
+28,/datasets/index/index-cluster_nb_28.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_28.png,-,-,-,-,-,No-Concept,"var yourVlSpec28 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_28.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis28', yourVlSpec28);",384,2.484793580949916
+29,/datasets/index/index-cluster_nb_29.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_29.png,-,-,-,-,-,No-Concept,"var yourVlSpec29 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_29.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis29', yourVlSpec29);",329,2.128898667011777
+30,/datasets/index/index-cluster_nb_30.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_30.png,0.8427,0.8277,0.8685,0.8465,0.8488,No-Concept,"var yourVlSpec30 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_30.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis30', yourVlSpec30);",382,2.471851947715802
+31,/datasets/index/index-cluster_nb_31.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_31.png,-,-,-,-,-,No-Concept,"var yourVlSpec31 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_31.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis31', yourVlSpec31);",172,1.1129804581338163
+32,/datasets/index/index-cluster_nb_32.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_32.png,0.008872,0.005873,0.009235,0.008438,0.01179,No-Concept,"var yourVlSpec32 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_32.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis32', yourVlSpec32);",160,1.0353306587291315
+33,/datasets/index/index-cluster_nb_33.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_33.png,-,-,-,-,-,No-Concept,"var yourVlSpec33 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_33.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis33', yourVlSpec33);",384,2.484793580949916
+34,/datasets/index/index-cluster_nb_34.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_34.png,0.03697,0.009206,0.01094,0.03295,0.03734,Concept,"var yourVlSpec34 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_34.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis34', yourVlSpec34);",327,2.1159570337776628
+35,/datasets/index/index-cluster_nb_35.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_35.png,-,-,-,-,-,No-Concept,"var yourVlSpec35 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_35.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis35', yourVlSpec35);",127,0.8217937103662483
+36,/datasets/index/index-cluster_nb_36.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_36.png,0.04215,0.03275,0.01718,0.04839,0.05873,No-Concept,"var yourVlSpec36 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_36.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis36', yourVlSpec36);",222,1.4365212889866699
+37,/datasets/index/index-cluster_nb_37.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_37.png,-,-,-,-,-,Concept,"var yourVlSpec37 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_37.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis37', yourVlSpec37);",329,2.128898667011777
+38,/datasets/index/index-cluster_nb_38.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_38.png,0.7549,0.7342,0.8545,0.7002,0.8167,No-Concept,"var yourVlSpec38 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_38.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis38', yourVlSpec38);",170,1.1000388248997024
+39,/datasets/index/index-cluster_nb_39.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_39.png,-,-,-,-,-,Concept,"var yourVlSpec39 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_39.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis39', yourVlSpec39);",282,1.8247702860100945
+40,/datasets/index/index-cluster_nb_40.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_40.png,0.06974,0.08561,0.1871,0.07536,0.1673,No-Concept,"var yourVlSpec40 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_40.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis40', yourVlSpec40);",219,1.417108839135499
+41,/datasets/index/index-cluster_nb_41.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_41.png,-,-,-,-,-,No-Concept,"var yourVlSpec41 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_41.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis41', yourVlSpec41);",198,1.2812216901773004
+42,/datasets/index/index-cluster_nb_42.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_42.png,0.9993,0.9995,0.9943,0.9948,1.0,No-Concept,"var yourVlSpec42 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_42.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis42', yourVlSpec42);",171,1.1065096415167597
+43,/datasets/index/index-cluster_nb_43.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_43.png,0.9717,0.9712,0.9783,0.9727,0.9757,No-Concept,"var yourVlSpec43 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_43.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis43', yourVlSpec43);",5,0.03235408308528536
+44,/datasets/index/index-cluster_nb_44.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_44.png,0.9747,0.9772,0.9792,0.9803,0.9651,Concept,"var yourVlSpec44 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_44.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis44', yourVlSpec44);",477,3.0865795263362235
+45,/datasets/index/index-cluster_nb_45.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_45.png,-,-,-,-,-,No-Concept,"var yourVlSpec45 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_45.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis45', yourVlSpec45);",111,0.7182606444933349
+46,/datasets/index/index-cluster_nb_46.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_46.png,0.9625,0.9648,0.9676,0.9442,0.9672,Concept,"var yourVlSpec46 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_46.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis46', yourVlSpec46);",333,2.154781933480005
+47,/datasets/index/index-cluster_nb_47.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_47.png,1.0,1.0,1.0,1.0,1.0,No-Concept,"var yourVlSpec47 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_47.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis47', yourVlSpec47);",12,0.07764979940468487
+48,/datasets/index/index-cluster_nb_48.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_48.png,0.05138,0.02323,0.005471,0.06545,0.04665,No-Concept,"var yourVlSpec48 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_48.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis48', yourVlSpec48);",194,1.255338423709072
+49,/datasets/index/index-cluster_nb_49.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_49.png,-,-,-,-,-,Concept,"var yourVlSpec49 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_49.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis49', yourVlSpec49);",327,2.1159570337776628
+50,/datasets/index/index-cluster_nb_50.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_50.png,0.0,0.0,0.0,0.0004018,0.0,No-Concept,"var yourVlSpec50 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_50.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis50', yourVlSpec50);",124,0.802381260515077
+51,/datasets/index/index-cluster_nb_51.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_51.png,0.9996,0.9999,1.0,1.0,1.0,No-Concept,"var yourVlSpec51 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_51.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis51', yourVlSpec51);",172,1.1129804581338163
+52,/datasets/index/index-cluster_nb_52.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_52.png,-,-,-,-,-,No-Concept,"var yourVlSpec52 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_52.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis52', yourVlSpec52);",90,0.5823734955351365
+53,/datasets/index/index-cluster_nb_53.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_53.png,-,-,-,-,-,No-Concept,"var yourVlSpec53 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_53.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis53', yourVlSpec53);",8,0.05176653293645658
+54,/datasets/index/index-cluster_nb_54.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_54.png,-,-,-,-,-,Concept,"var yourVlSpec54 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_54.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis54', yourVlSpec54);",395,2.555972563737544
+55,/datasets/index/index-cluster_nb_55.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_55.png,0.991,0.9906,0.9901,0.9903,0.9914,No-Concept,"var yourVlSpec55 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_55.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis55', yourVlSpec55);",114,0.7376730943445062
+56,/datasets/index/index-cluster_nb_56.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_56.png,-,0.2325,-,0.2646,0.4864,No-Concept,"var yourVlSpec56 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_56.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis56', yourVlSpec56);",220,1.423579655752556
+57,/datasets/index/index-cluster_nb_57.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_57.png,-,-,-,-,-,No-Concept,"var yourVlSpec57 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_57.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis57', yourVlSpec57);",130,0.8412061602174195
+58,/datasets/index/index-cluster_nb_58.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_58.png,-,-,-,-,-,No-Concept,"var yourVlSpec58 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_58.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis58', yourVlSpec58);",102,0.6600232949398214
+59,/datasets/index/index-cluster_nb_59.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_59.png,-,-,-,-,-,No-Concept,"var yourVlSpec59 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_59.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis59', yourVlSpec59);",80,0.5176653293645658
+60,/datasets/index/index-cluster_nb_60.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_60.png,0.008462,0.01,0.008118,0.008839,0.01116,Concept,"var yourVlSpec60 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_60.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis60', yourVlSpec60);",511,3.3065872913161636
+61,/datasets/index/index-cluster_nb_61.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_61.png,0.4116,-,-,-,-,Concept,"var yourVlSpec61 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_61.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis61', yourVlSpec61);",358,2.3165523489064315
+62,/datasets/index/index-cluster_nb_62.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_62.png,0.934,0.9437,0.9596,0.9137,0.9642,No-Concept,"var yourVlSpec62 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_62.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis62', yourVlSpec62);",233,1.507700271774298
+63,/datasets/index/index-cluster_nb_63.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_63.png,-,-,-,-,-,No-Concept,"var yourVlSpec63 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_63.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis63', yourVlSpec63);",195,1.2618092403261292
+64,/datasets/index/index-cluster_nb_64.html,https://raw.githubusercontent.com/adri-j/datasets/master/imgs/cluster_64.png,1.0,1.0,1.0,1.0,1.0,No-Concept,"var yourVlSpec64 =   {
+  ""$schema"": ""https://vega.github.io/schema/vega-lite/v3.json"",
+  ""width"": 250,
+  ""height"": 400,
+  ""padding"": 5,
+  
+  
+  ""data"": {
+    ""url"":""https://raw.githubusercontent.com/adri-j/datasets/master/data/cluster_nb_64.csv"",
+    ""format"": {
+      ""type"": ""csv""
+    }
+  },
+
+   ""mark"": {""type"": ""bar"",  ""tooltip"": true },
+  ""encoding"": {
+    ""x"": {
+      ""aggregate"" : ""count"",
+      ""field"": ""cluster"",
+      ""type"":    ""quantitative"" 
+    },
+    ""y"": {
+      ""field"": ""pathology"",
+      ""type"": ""nominal""
+    }
+  }
+};vegaEmbed('#vis64', yourVlSpec64);",187,1.210042707389673
